@@ -1,3 +1,9 @@
+# Lost Kingdom RPG Resources MEANJS API #
+
+This project is my personal experimentation with the MEAN stack using MEANJS as the base. The purpose of this project is to create an API of resources for writers and role players and a set of tools that they can use to enhance their stories and games. 
+
+
+
 [![MEAN.JS Logo](http://meanjs.org/img/logo-small.png)](http://meanjs.org/)
 
 [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/meanjs/mean?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
